@@ -1,0 +1,28 @@
+React UI (react-hooks, props etc.)
+Typescript
+HTML5
+CSS3
+Graphql
+GIT
+Automated Build and Unit Testing
+
+Expertise in React JS, HTML5, CSS3
+Experience with state management like Redux, React-Context or similar library
+Good understanding of asynchronous, closure, event-driven programming
+Good understanding of browser rendering behavior and performance
+Familiarity with JavaScript module loaders and testing tools
+Familiarity with front-end build tools, such as Webpack, Grunt and Gulp.js
+
+Minimum 5 years of UI development experience
+Very strong hands-on in HTML5, CSS 3, JavaScript, NPM, React JS, Redux
+Strong in JavaScript, including DOM manipulation and the JavaScript object model
+Thorough understanding of ReactJS and its core principles
+Advanced skill of React and Redux(Redux-Observable)
+Experience with common front-end development tools such as Babel, Webpack, NPM, etc.
+Experience with a testing framework (Jest/Mocha/Jasmine)
+Strong knowledge in automated build and testing tools for UI components like Jenkins, etc.
+Proficient in database development such as Oracle/MongoDB
+Communicate effectively with both technical and non-technical individuals at all levels
+
+Essential
+ReactJS, Redux, TypeScript, ESNext, Material UI, HTML, CSS/JSS, Jest, @testing-library/react

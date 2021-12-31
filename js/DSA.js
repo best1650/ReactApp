@@ -93,6 +93,48 @@ function isPrimeInN(n) {
  * JavaScript Strings
  */
 
+function JavaScriptStrings() {
+    // Returns the character at that index location in the string.
+    'dog'.charAt(1); // returns 'o'
+
+    'YouTube'.substring(1, 2); // returns 'o'
+    'Youtube'.substring(3, 7); // returns 'tube'
+    'Youtube'.substring(1); // returns 'outube'
+
+    'Red Dragon'.indexOf('Red'); // returns 0
+    'Red Dragon'.indexOf('RedScale'); // returns -1
+    'Red Dragon'.indexOf('Dragon', 0); // returns 4
+    'Red Dragon'.indexOf('Dragon', 4); // returns 4
+    'Red Dragon'.indexOf('', 9); // returns 9
+
+    'Red Dragon'.startsWith('Red'); // returns true
+    'Red Dragon'.endsWith('Dragon'); // returns true
+    'Red Dragon'.startsWith('Dragon'); // returns false
+    'Red Dragon'.endsWith('Red'); // returns false
+
+    var test1 = 'chicken,noodle,soup,broth';
+    test1.split(","); // ["chicken", "noodle", "soup", "broth"]
+
+    var test1 = 'chicken';
+    test1.split(""); // ["c", "h", "i", "c", "k", "e", "n"]
+
+    "Wizard of Oz".replace("Wizard","Witch"); // "Witch of Oz"
+
+    /*
+    charAt(index) Accesses a single character at index
+    substring(startIndex, endIndex) Accesses part of string from startIndex to endIndex
+    str1 > str2 Returns true if str1 is lexicographically bigger than str2
+    indexOf(str, startIndex) Index of the desired str starting at startIndex
+    str.split(delimiter) Breaks a string into an array with the specified delimiter
+    str.replace(original,new) Replaces original with new
+
+    /\d+/ Any numeric characters
+    /^\d+$/ Only numeric characters
+    /^[0-9]*.[0-9]*[1-9]+$/ Float numeric characters
+    /[a-zA-Z0-9] / Only alphanumeric characters
+    */ 
+}
+
 
 
 

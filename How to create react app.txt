@@ -1,0 +1,3 @@
+npx clear-npx-cache
+
+npx create-react-app <app folder name>
