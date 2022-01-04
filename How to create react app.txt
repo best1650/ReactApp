@@ -1,3 +1,9 @@
+** Create react app repo
 npx clear-npx-cache
-
 npx create-react-app <app folder name>
+npm run start
+
+** Create redux repo
+npm init --yes
+npm install redux
+node <js file>
